@@ -11,7 +11,7 @@ Track shipping containers across all major shipping lines as well as [Class 1 No
 | APL              | APLU | :heavy_check_mark: | [Link](https://www.apl.com/ebusiness/tracking)  | [Yes](https://apps.apple.com/us/app/apl-shipping/id1316352566?ign-mpt=uo%3D4) | [Yes](https://play.google.com/store/apps/details?id=com.apl.mobile)
 | Arkas Container Transport |ARKU | :x: | [Link](https://webtracking.arkasline.com.tr/shipmenttracking) | No | No |
 | CMA CGM          | CMDU | :heavy_check_mark: | [Link](https://www.cma-cgm.com/ebusiness/tracking)  | [Yes](https://apps.apple.com/us/app/cma-cgm/id976582997?ign-mpt=uo%3D4) | No | 
-| Cosco            | COSU | :x: | [Link](https://elines.coscoshipping.com/ebusiness/cargoTracking)  | [Yes](https://apps.apple.com/us/app/cosco-shipping-lines/id998446230?ign-mpt=uo%3D4) | No |
+| Cosco            | COSU | :x: | [Link](https://elines.coscoshipping.com/ebusiness/cargoTracking)  | [Yes](https://apps.apple.com/us/app/cosco-shipping-lines/id998446230?ign-mpt=uo%3D4) | [Yes](https://play.google.com/store/apps/details?id=imm.com.ems) |
 | Emirates Shipping Line | ESPU |:x: | [Link](https://www.emiratesline.com/cargo-tracking/) | [Yes](https://apps.apple.com/us/app/esl-mobile/id1106834658?ign-mpt=uo%3D4) | [Yes](https://play.google.com/store/apps/details?id=com.emiratesline.android) |
 | Evergreen        | EGLV |:x: | [Link](https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do)  | No | [Yes](https://play.google.com/store/apps/details?id=com.shipmentlink.mobile) |
 | Hamburg SUD      | SUDU | :heavy_check_mark: | [Link](https://www.hamburgsud-line.com/liner/en/liner_services/ecommerce/track_trace/index.html) | No | No |
